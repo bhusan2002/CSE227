@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358256912866",
+    "project_id": "cse227-realtimedatabase2",
+    "storage_bucket": "cse227-realtimedatabase2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358256912866:android:4f66c770aaea896e21b1bb",
+        "android_client_info": {
+          "package_name": "com.example.cse227_realtimedatabase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU87QEp_8Fl8Ev3CMGkw6KG2y6hYj5hhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
